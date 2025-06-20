@@ -16,9 +16,11 @@ Cloud spend can spiral out of control without visibility and proactive managemen
 ---
 
 ## 📁 Folder Structure
-
-
-
+cloud-cost-dashboard/
+├── datasets/ # Simulated AWS billing CSV
+├── dashboard/ # Power BI .pbix file
+├── images/ # Screenshots of the dashboard
+└── README.md # Project documentation
 
 ---
 
