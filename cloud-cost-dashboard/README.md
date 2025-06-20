@@ -15,9 +15,10 @@ Cloud spend can spiral out of control without visibility and proactive managemen
 
 ---
 
-#### ✅ With this:
-```markdown
 ## 📁 Folder Structure
+
+
+
 
 ---
 
