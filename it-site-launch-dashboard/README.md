@@ -2,7 +2,7 @@
 
 A Power BI dashboard for tracking IT site launch progress — including task durations, task statuses, and cost comparisons.
 
-![Dashboard Preview](./dashboard-image.png)
+![dashboard-image png](https://github.com/user-attachments/assets/4b7b80fa-1e9f-4879-b4cd-baadba0c6e7b)
 
 ---
 
